@@ -1,2 +1,2 @@
-# directdemocracy-system-
+# directdemocracy-system
 Direct Democracy System
